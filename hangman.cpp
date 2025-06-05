@@ -117,13 +117,6 @@ int main() {
     // Generate and print a random number.
     int randomNumber = dist(gen);
 
-
-     /*cout << "enter your name : " << endl;
-    string name;
-    getline(cin, name); 
-
-    cout << "Hello " << name << endl;*/
-
     cout<< "welcome to hangman: " << endl << endl;
     
         cout << "  +---+\n";
