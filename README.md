@@ -119,8 +119,8 @@ This game is licensed under the [MIT License](./LICENSE).
   ---
 
  ## 🙋‍♂️ Author
-  Atharva Patel  
-  GitHub: redshift-quasar  
+ #### Atharva Patel  
+ **GitHub: [redshift-quasar](https://github.com/redshift-quasar)**  
   Happy hacking!
 
     
