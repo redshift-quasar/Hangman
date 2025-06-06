@@ -1,5 +1,3 @@
-// hman modification with clear screen opt
-
 #include <iostream>
 #include <string>
 #include <random>
